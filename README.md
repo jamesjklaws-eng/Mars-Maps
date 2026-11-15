@@ -2,7 +2,7 @@
 
 Welcome to **Mars Maps**! This is an interactive navigation interface built to help astronauts safely navigate Martian terrain. 
 
-Mars is a dangerous environment, harbouring deadly hazards such as high radiation, lethal terrain, and extreme weather. Our software’s preloaded routes improve astronaut safety by avoiding these hazards—preventing injuries and fatalities that would otherwise occur during surface missions.
+Mars is a dangerous environment, harbouring deadly hazards such as high radiation, lethal terrain, and extreme weather. Our software’s preloaded routes improve astronaut safety by avoiding these hazards—preventing injuries and fatalities that would otherwise occur during surface missions. This project was coded by Claude AI
 
 ---
 
