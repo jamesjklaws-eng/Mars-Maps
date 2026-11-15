@@ -6,13 +6,13 @@ Mars is a dangerous environment, harbouring deadly hazards such as high radiatio
 
 ---
 
-## 🛠️ How It Works & Data Sources
+## How It Works & Data Sources
 
 To generate safe navigation paths, we compiled historical Martian weather patterns to predict future environmental conditions. The rigorous dataset powering this interface comes directly from NASA's **Perseverance rover**, which has been exploring the western face of **Jezero Crater** since 2021.
 
 ---
 
-## 📍 Featured Landmarks
+## Featured Landmarks
 
 Our predetermined, hazard-avoiding routes guide astronauts to four pivotal landmarks within Jezero Crater:
 
@@ -23,10 +23,10 @@ Our predetermined, hazard-avoiding routes guide astronauts to four pivotal landm
 
 ---
 
-## 💻 How to View the Final Project
+## How to View the Final Project
 
 Because GitHub does not render standalone HTML files directly in the repository preview, you will need to download the file locally to view the interface:
 
-1. Navigate to the main `.html` file in this repository (e.g., `index.html`).
+1. Navigate to the main `.html` file in this repository.
 2. Click the **Download raw file** button (or clone the repository to your computer).
 3. Locate the downloaded `.html` file on your device and double-click it to open the final project in your default web browser.
